@@ -1,0 +1,3 @@
+[submodule "themes/grayscale"]
+	path = themes/grayscale
+	url = git@github.com:runningstream/hugograyscale.git

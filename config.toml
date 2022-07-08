@@ -1,0 +1,4 @@
+baseURL = "https://symbolica.ai/"
+languageCode = "en-us"
+title = "Symbolica AI"
+theme = "grayscale"
