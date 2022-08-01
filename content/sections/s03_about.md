@@ -6,11 +6,11 @@ improvecontrast: false
 
 ## The Symbolica Model
 
-Symbolica models are fundamentally different than the Neural Networks that underpin state of the art machine learning algoritms. Compilation of the model is unsupervised, with a separate training process requiring orders of magnitude less labeled data. This means training is quicker and cheaper than has been possible ever before.
+Symbolica models are fundamentally different than the neural networks that underpin state of the art machine learning algorithms. Compilation of the model is unsupervised, with a separate training process requiring orders of magnitude less labeled data. This means training is quicker and cheaper than has been possible ever before.
 
 ## Abstract and Symbolic
 
-The compilation of a Symbolica model requires no prior knowledge of the input space. It compresses arbitrary input data into a proprietary symbolic representation, which establishes its own abstract understanding of the features from the input. Training detectors aginst the abstract representation can be performed after the model is compiled, no longer requiring retraining as the set of features to be detected grows. The model continually refines its own understanding as more data is provided.
+The compilation of a Symbolica model requires no prior knowledge of the input space. It compresses arbitrary input data into a proprietary symbolic representation, which establishes its own abstract understanding of the features from the input. Training detectors against the abstract representation can be performed after the model is compiled, no longer requiring retraining as the set of features to be detected grows. The model continually refines its own understanding as more data is provided.
 
 ## Paving the Road for AGI
 
