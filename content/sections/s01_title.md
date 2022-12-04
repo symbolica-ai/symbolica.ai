@@ -6,4 +6,4 @@ improvecontrast: false
 
 # Symbolica AI
 
-Rethinking Computational Thinking
+Evolving ML for the Evolving World

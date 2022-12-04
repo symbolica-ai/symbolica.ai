@@ -5,5 +5,5 @@ copyright: "2022 Symbolica AI"
 description: "Symbolic Machine Learning Reimagined"
 
 menu:
-    - {url: "mailto:contact@symbolica.ai", name: "Contact Us"}
+    - {url: "mailto:contact@symbolica.ai", name: "Contact"}
 ---
